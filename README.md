@@ -15,28 +15,31 @@
 
 ## 系列文章
 
-### 核心文章（共 7 篇）
+### 核心文章（共 8 篇）
 
-1. **[不锈钢飞船为什么更成功](articles/01-stainless-starship.md)**
+1. **[不锈钢飞船为什么更成功](articles_cn/01-stainless-starship.md)**
    从"最先进"转向"可快速迭代"的工程启示。
 
-2. **[很多系统不是做不出来，而是"做偏了"](articles/02-requirements-deviation.md)**
+2. **[很多系统不是做不出来，而是"做偏了"](articles_cn/02-requirements-deviation.md)**
    学会判断问题是否值得解决，设计绕过路径。
 
-3. **[迭代是第一生产力](articles/03-iteration-first.md)**
+3. **[迭代是第一生产力](articles_cn/03-iteration-first.md)**
    系统质量是通过迭代而非一次性设计实现的。
 
-4. **[在 AI 的加速中，我们正在失去什么](articles/04-ai-what-we-lose.md)**
+4. **[在 AI 的加速中，我们正在失去什么](articles_cn/04-ai-what-we-lose.md)**
    AI 提升效率的同时，如何保留理解与确定性。
 
-5. **[不要在产品中验证新技术](articles/05-no-new-tech-in-product.md)**
+5. **[不要在产品中验证新技术](articles_cn/05-no-new-tech-in-product.md)**
    核心原则：新技术需在独立环境中验证成熟后再引入产品。
 
-6. **[真正的创新，是对价值的判断](articles/06-innovation-value.md)**
+6. **[真正的创新，是对价值的判断](articles_cn/06-innovation-value.md)**
    创新不是追求难度，而是判断是否真正卡住系统上限。
 
-7. **[工程中的权力与责任](articles/07-power-and-responsibility.md)**
+7. **[工程中的权力与责任](articles_cn/07-power-and-responsibility.md)**
    决策的本质是权力与责任的对齐。（暂未成文）
+
+8. **[复杂系统中的熵增定律 - 从Sui宕机谈复杂度失控](articles_cn/08-the-entropy-of-complex-systems.md)**
+   优秀的系统竞争力，不是功能越多越好，而是能长期维持在可理解、可演进的复杂度水平上。[English Version](articles/08-the-entropy-of-complex-systems.md) 
 
 
 
@@ -53,7 +56,7 @@
 
 ## 如何使用本仓库
 
-- **个人阅读**：从本 README 开始，按序号阅读 7 篇文章。
+- **个人阅读**：从本 README 开始，按序号阅读 8 篇文章。
 - **贡献**：欢迎提出 Issue 或 PR，共同完善这些思考（请先阅读 [CONTRIBUTING.md](CONTRIBUTING.md)）。
 
 ## 许可证
